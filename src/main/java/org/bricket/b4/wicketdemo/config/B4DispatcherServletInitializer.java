@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.bricket.b4.server.config;
+package org.bricket.b4.wicketdemo.config;
 
 import org.bricket.b4.core.config.B4CoreWebConfig;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;

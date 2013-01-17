@@ -14,12 +14,12 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.bricket.b4.server.wicket;
+package org.bricket.b4.wicketdemo.wicket;
 
 import org.apache.wicket.Page;
 import org.apache.wicket.protocol.http.WebApplication;
 import org.apache.wicket.spring.injection.annot.SpringComponentInjector;
-import org.bricket.b4.server.wicket.pages.HomePage;
+import org.bricket.b4.wicketdemo.wicket.pages.HomePage;
 
 /**
  * @author Ingo Renner
